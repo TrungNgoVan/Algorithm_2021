@@ -1,5 +1,7 @@
+/* Author Ngo Van Trung - THPT Nguyen Hue - Đắk Lắk */
 #include <bits/stdc++.h>
 #define N 4
+#define __NgoVanTrung int main()
 using namespace std;
 const int INF = 1e9 + 7;
 int f[N][N] = {0};
