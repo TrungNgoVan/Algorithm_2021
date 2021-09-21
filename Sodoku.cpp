@@ -75,7 +75,7 @@ void idealS()
         xl();
     } while (next_permutation(c, c + 9));
 }
-int main()
+__NgoVanTrung
 {
     ios_base::sync_with_stdio(0);
     cin.tie(NULL);
